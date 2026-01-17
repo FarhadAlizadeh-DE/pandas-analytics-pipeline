@@ -1,0 +1,6 @@
+order_id,product_sku,quantity,unit_price
+100,BOOK-1,1,29.99
+100,MERCH-1,2,12.50
+101,TOOLS-9,1,19.00
+102,BOOK-1,1,29.99
+103,BOOK-1,0,29.99
